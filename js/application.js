@@ -1,0 +1,1 @@
+windows.Todos = Ember.Application.create();
